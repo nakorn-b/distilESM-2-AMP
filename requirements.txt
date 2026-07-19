@@ -1,0 +1,11 @@
+pandas
+matplotlib
+transformers
+datasets
+wandb
+notebook
+scikit-learn
+ipykernel
+pyspark
+datasets
+scipy

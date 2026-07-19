@@ -1,0 +1,19 @@
+train_data_path: dataset/AMP-dataset/AMP.csv
+test_data_path: dataset/test-dataset/abp.indtest1.csv
+val_split: 0.2
+max_length: 256
+space_separate_seq: false
+learning_rate: 2.0e-05
+num_epochs: 50
+batch_size: 32
+weight_decay: 0.05
+warmup_steps: 20
+grad_accum_steps: 1
+early_stopping_patience: 5
+fp16: true
+output_dir: ./outputs/finetune
+mlflow_experiment: finetune_seed_averaging
+seeds: [42, 43, 44, 45, 46]
+run_name: t0.5_a0.5
+model_name: distilESM-2-AMP (t=0.5, a=0.5)
+model_path: ./outputs/pretrain_full_dataset_t0.5_a0.5/student_model
