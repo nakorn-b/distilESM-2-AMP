@@ -8,7 +8,7 @@ distilESM-2-AMP is a  distilled version of META AI's `esm2_t6_8M_UR50D`. The res
 
 - Model on Hugging Face: [NakornB/distilESM-2-AMP](https://huggingface.co/NakornB/distilESM-2-AMP)
 
-- Live Demo: Check out [demo](https://distilesm-2-amp.streamlit.app/) here
+- Live Demo: Check out [webapp]([https://distilesm-2-amp.streamlit.app/](https://distil-esm-2-amp.vercel.app/)) here
 
 ## 📊 Model comparision
 |Name|Parameter| Pretraining data | Protein sequence | Size (MB) |
