@@ -4,9 +4,7 @@ distilESM-2-AMP is a  distilled version of META AI's `esm2_t6_8M_UR50D`. The res
 
 ### Introduction Video
 
-<video src="public/distil-esm-2-amp-intro.mp4" controls width="100%"></video>
-
-[▶️ Watch the introduction video](public/distil-esm-2-amp-intro.mp4)
+https://github.com/user-attachments/assets/b5707bec-a8cd-4a98-b790-6b7f9325b9d7
 
 ### Paper & Resources
 
