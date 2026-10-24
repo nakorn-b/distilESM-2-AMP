@@ -1,6 +1,13 @@
 <h1 align="center">🧬 distilESM-2-AMP</h1>
 
 distilESM-2-AMP is a  distilled version of META AI's `esm2_t6_8M_UR50D`. The research focuses on model compression and classification of Antimicrobial Peptide (AMP) in bioinformatics field.
+
+### Introduction Video
+
+<video src="public/distil-esm-2-amp-intro.mp4" controls width="100%"></video>
+
+[▶️ Watch the introduction video](public/distil-esm-2-amp-intro.mp4)
+
 ### Paper & Resources
 
 
