@@ -13,7 +13,7 @@ https://github.com/user-attachments/assets/b5707bec-a8cd-4a98-b790-6b7f9325b9d7
 
 - Model on Hugging Face: [NakornB/distilESM-2-AMP](https://huggingface.co/NakornB/distilESM-2-AMP)
 
-- Live Demo: Check out [demo](https://distilesm-2-amp.streamlit.app/) here
+- Live Web Application: Check out [the web application](https://distilesm-2-amp.streamlit.app/) here
 
 ## 📊 Model comparision
 |Name|Parameter| Pretraining data | Protein sequence | Size (MB) |
@@ -35,7 +35,7 @@ model = AutoModelForSequenceClassification.from_pretrained(model_name)
 
 ### Contact
 - Email: boonprasongnakorn@gmail.com
-- GitHub: [nemo-netidol](https://github.com/Nemo-netidol)
+- GitHub: [nakorn-b](https://github.com/nakorn-b)
 - Linkedln: https://www.linkedin.com/in/nakornb/
 
 ### License 
